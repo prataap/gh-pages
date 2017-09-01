@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>fox-tech</title>
+    <link href="https://prataap.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://prataap.github.io/gh-pages" />
+    <updated>2017-09-02T01:02:33+05:30</updated>
+    <author>
+        <name>Prataap</name>
+    </author>
+    <id>https://prataap.github.io/gh-pages</id>
+
+    <entry>
+        <title>Jokes</title>
+        <author>
+            <name>Prataap</name>
+        </author>
+        <link href="https://prataap.github.io/gh-pages/jokes/"/>
+        <id>https://prataap.github.io/gh-pages/jokes/</id>
+
+        <updated>2017-09-02T00:58:45+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>A man flying in a hot air balloon suddenly realizes he&rsquo;s lost. He reduces height and spots a man down below. He lowers the balloon further and shouts to get directions,&nbsp;"Excuse me, can you tell me where I am?"<br><br>The man below says:&nbsp;"Yes. You're in a hot air balloon, hovering 30 feet above this field."<br><br>"You must work in Information Technology,"&nbsp;says the balloonist.<br><br>"I do"&nbsp;replies the man.&nbsp;"How did you know?"<br><br>"Well,"&nbsp;says the balloonist,&nbsp;"everything you have told me is technically correct, but It's of no use to anyone."<br><br>The man below replies,&nbsp;"You must work in management."<br><br>"I do,"&nbsp;replies the balloonist, *"But how'd you know?"**<br><br>"Well", says the man,&nbsp;"you don&rsquo;t know where you are or where you&rsquo;re going, but you expect me to be able to help. You&rsquo;re in the same position you were before we met, but now it&rsquo;s my fault."</p>
+<p>&nbsp;</p>
+<p>Taken from Stackoverflow.&nbsp;<a title="programmer-joke" href="https://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke" target="_blank" rel="noopener noreferrer">https://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

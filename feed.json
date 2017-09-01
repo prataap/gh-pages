@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fox-tech",
+    "description": "",
+    "home_page_url": "https://prataap.github.io/gh-pages",
+    "feed_url": "https://prataap.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Prataap"
+    },
+    "items": [
+        {
+            "id": "https://prataap.github.io/gh-pages/jokes/",
+            "url": "https://prataap.github.io/gh-pages/jokes/",
+            "title": "Jokes",
+            "content_html": "<p>A man flying in a hot air balloon suddenly realizes he&rsquo;s lost. He reduces height and spots a man down below. He lowers the balloon further and shouts to get directions,&nbsp;\"Excuse me, can you tell me where I am?\"<br><br>The man below says:&nbsp;\"Yes. You're in a hot air balloon, hovering 30 feet above this field.\"<br><br>\"You must work in Information Technology,\"&nbsp;says the balloonist.<br><br>\"I do\"&nbsp;replies the man.&nbsp;\"How did you know?\"<br><br>\"Well,\"&nbsp;says the balloonist,&nbsp;\"everything you have told me is technically correct, but It's of no use to anyone.\"<br><br>The man below replies,&nbsp;\"You must work in management.\"<br><br>\"I do,\"&nbsp;replies the balloonist, *\"But how'd you know?\"**<br><br>\"Well\", says the man,&nbsp;\"you don&rsquo;t know where you are or where you&rsquo;re going, but you expect me to be able to help. You&rsquo;re in the same position you were before we met, but now it&rsquo;s my fault.\"</p>\n<p>&nbsp;</p>\n<p>Taken from Stackoverflow.&nbsp;<a title=\"programmer-joke\" href=\"https://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke\" target=\"_blank\" rel=\"noopener noreferrer\">https://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke</a></p>",
+            "author": {
+                "name": "Prataap"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-02T01:02:33+05:30",
+            "date_modified": "2017-09-02T00:58:45+05:30"
+        }
+    ]
+}
