@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>fox-tech</title>
+    <title>techno-fox</title>
     <link href="https://prataap.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://prataap.github.io/gh-pages" />
-    <updated>2017-09-02T01:02:33+05:30</updated>
+    <updated>2017-09-02T01:34:26+05:30</updated>
     <author>
         <name>Prataap</name>
     </author>
     <id>https://prataap.github.io/gh-pages</id>
 
     <entry>
-        <title>Jokes</title>
+        <title>Programmer Joke</title>
         <author>
             <name>Prataap</name>
         </author>
         <link href="https://prataap.github.io/gh-pages/jokes/"/>
         <id>https://prataap.github.io/gh-pages/jokes/</id>
 
-        <updated>2017-09-02T00:58:45+05:30</updated>
+        <updated>2017-09-02T01:34:19+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
